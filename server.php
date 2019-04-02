@@ -2,7 +2,7 @@
 
 $host = 'localhost:3306';
 $user = 'ovplayer_root';
-$pass = 'ivailo31052002';
+$pass = '**************';
 $database = 'ovplayer_register';
 
 $con = mysqli_connect($host, $user, $pass, $database) or die("Connection failed!");
